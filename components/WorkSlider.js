@@ -5,23 +5,11 @@ const workSlides = {
       images: [
         {
           title: "title",
-          path: "/Shaluone.jpg",
+          path: "/shaluone.jpg",
         },
         {
           title: "title",
-          path: "/Shalutwo.jpg",
-        },
-      ],
-    },
-    {
-      images: [
-        {
-          title: "title",
-          path: "/Shaluthree.jpg",
-        },
-        {
-          title: "title",
-          path: "/Shalufour.jpg",
+          path: "/shalutwo.jpg",
         },
       ],
     },
@@ -29,11 +17,11 @@ const workSlides = {
       images: [
         {
           title: "title",
-          path: "/Shalufive.jpg",
+          path: "/shaluthree.jpg",
         },
         {
           title: "title",
-          path: "/Shaluseven.jpg",
+          path: "/shalufour.jpg",
         },
       ],
     },
@@ -41,11 +29,23 @@ const workSlides = {
       images: [
         {
           title: "title",
-          path: "/Shalusix.jpg",
+          path: "/shalufive.jpg",
         },
         {
           title: "title",
-          path: "/Shalueight.jpg",
+          path: "/shaluseven.jpg",
+        },
+      ],
+    },
+    {
+      images: [
+        {
+          title: "title",
+          path: "/shalusix.jpg",
+        },
+        {
+          title: "title",
+          path: "/shalueight.jpg",
         },
       ],
     },

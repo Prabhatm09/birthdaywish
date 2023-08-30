@@ -45,7 +45,7 @@ const workSlides = {
         },
         {
           title: "title",
-          path: "/shalueight.jpg",
+          path: "/shalueight.JPG",
         },
       ],
     },

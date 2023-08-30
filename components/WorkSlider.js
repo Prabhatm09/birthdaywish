@@ -5,23 +5,11 @@ const workSlides = {
       images: [
         {
           title: "title",
-          path: "/Shalu1.jpg",
+          path: "/Shaluone.jpg",
         },
         {
           title: "title",
-          path: "/Shalu2.jpg",
-        },
-      ],
-    },
-    {
-      images: [
-        {
-          title: "title",
-          path: "/Shalu3.jpg",
-        },
-        {
-          title: "title",
-          path: "/Shalu4.jpg",
+          path: "/Shalutwo.jpg",
         },
       ],
     },
@@ -29,11 +17,11 @@ const workSlides = {
       images: [
         {
           title: "title",
-          path: "/Shalu5.jpg",
+          path: "/Shaluthree.jpg",
         },
         {
           title: "title",
-          path: "/Shalu7.jpg",
+          path: "/Shalufour.jpg",
         },
       ],
     },
@@ -41,11 +29,23 @@ const workSlides = {
       images: [
         {
           title: "title",
-          path: "/Shalu6.jpg",
+          path: "/Shalufive.jpg",
         },
         {
           title: "title",
-          path: "/Shalu8.jpg",
+          path: "/Shaluseven.jpg",
+        },
+      ],
+    },
+    {
+      images: [
+        {
+          title: "title",
+          path: "/Shalusix.jpg",
+        },
+        {
+          title: "title",
+          path: "/Shalueight.jpg",
         },
       ],
     },
@@ -60,7 +60,7 @@ import Image from "next/image";
 import { Swiper, SwiperSlide } from "swiper/react";
 
 //import required modules
-import { FreeMode, Pagination } from "swiper";
+import { Pagination } from "swiper";
 
 //import swiper style
 import "swiper/css";

@@ -32,7 +32,7 @@ const Services = () => {
               initial="hidden"
               animate="show"
               exit="hidden"
-              className=" bg-[url('/bg-quote.jpg')] bg-cover bg-center p-20 text-blue-700/80 mb-4 max-w-[400px] mx-auto lg:mx-0 font-bold text-lg"
+              className=" bg-[url('/bg-quote.jpg')] bg-cover bg-center p-20 text-blue-700/80 mb-4 w-[500px] mx-auto lg:mx-0 font-bold text-lg"
             >
               Wish you very happy birthday to U 🎂 and always stay happy.I wish
               you got high position in your career and live your life as u want

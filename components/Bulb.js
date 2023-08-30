@@ -6,7 +6,7 @@ const Bulb = () => {
     <div
       className="absolute  animate-pulse  mix-blend-color-dodge rotate-11
 -left-[256px]
-      top-[55px]
+      top-[275px]
     duration-75
     z-10
     w-[800px]

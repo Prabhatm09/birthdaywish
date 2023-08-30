@@ -154,7 +154,7 @@ const Age = () => {
             exit="hidden"
             className="md:flex md:max-w-xl xl:max-w-none mx-auto xl:mx-0 mb-8"
           >
-            <div className="flex flex-1 gap-x-14 gap-x-6">
+            <div className="flex flex-1 gap-x-14 ">
               {/* expnce */}
               <div className="relative flex-1">
                 <div className="text-2xl xl:text-4xl font-extrabold text-accent mb-2">
@@ -166,12 +166,12 @@ const Age = () => {
                 </div>
               </div>
             </div>
+            <div className="mb-auto px-20">
+              <video width="220" height="100" controls>
+                <source src={"/movie.mp4"} type="video/mp4" />
+              </video>
+            </div>
           </motion.div>
-        </div>
-        <div className="mb-auto">
-          <video width="220" height="100" controls>
-            <source src={"/movie.mp4"} type="video/mp4" />
-          </video>
         </div>
       </div>
     </div>

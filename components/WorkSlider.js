@@ -43,10 +43,7 @@ const workSlides = {
           title: "title",
           path: "/shalusix.jpg",
         },
-        {
-          title: "title",
-          path: "/shalueight.JPG",
-        },
+        ,
       ],
     },
   ],
